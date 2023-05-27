@@ -1,0 +1,25 @@
+body{
+background-color:black}
+
+.btn{
+display:inline-block;
+position: relative;
+color: white;
+background:purple;
+padding: 10px 8px;
+widht: 50px;
+border-radius: 5px;
+left: 140px;
+top: 100px;
+border-radius: 5px;
+font-size:30px;
+text-decoration: none;
+
+}
+
+
+a{
+ text-decoration: none;
+  color: white;
+
+}
